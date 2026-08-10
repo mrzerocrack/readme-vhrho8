@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrzerocrack.github.io/readme-vhrho8/sitemap.xml
